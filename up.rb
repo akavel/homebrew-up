@@ -3,7 +3,7 @@ class Up < Formula
   homepage "https://github.com/akavel/up"
   url "https://github.com///releases/download/v0.3/_0.3_darwin_amd64.tar.gz"
   version "0.3"
-  sha256 "af51d51209d729acad62c44987c0ea0c18946de77d320a4a1e5c9a110f3fefee"
+  sha256 "6e06bfdc5672de54c562d739726c30765ca53d21d74f5bb6e4e14a96a1bf598b"
 
   def install
     bin.install ""
